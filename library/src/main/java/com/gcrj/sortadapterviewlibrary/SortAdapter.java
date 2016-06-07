@@ -1,4 +1,4 @@
-package com.gcrj.library;
+package com.gcrj.sortadapterviewlibrary;
 
 import java.util.List;
 

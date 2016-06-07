@@ -1,4 +1,4 @@
-package com.gcrj.library;
+package com.gcrj.sortadapterviewlibrary;
 
 import android.content.Context;
 import android.graphics.Rect;

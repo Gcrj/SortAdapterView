@@ -9,8 +9,8 @@ import android.widget.AbsListView;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
 
-import com.gcrj.library.SortAdapter;
-import com.gcrj.library.SortListView;
+import com.gcrj.sortadapterviewlibrary.SortAdapter;
+import com.gcrj.sortadapterviewlibrary.SortListView;
 
 import java.util.ArrayList;
 import java.util.Arrays;
